@@ -27,6 +27,7 @@ SET time_zone = "+00:00";
 -- Table structure for table `tb_data`
 --
 --nambah coba
+--
 CREATE TABLE `tb_data` (
   `id` int(11) NOT NULL,
   `name` varchar(30) NOT NULL,
